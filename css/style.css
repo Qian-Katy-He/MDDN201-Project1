@@ -13,14 +13,15 @@ section{
 	max-width: 1000px;
 	margin-left: auto;
 	margin-right: auto;
-	margin-top: 20px;
+	margin-top: 10px;
 	margin-bottom: 20px;
 }
 
 header{
-	background-color: darkOrange;
+	background-color: pink;
 	color: white; /* more readable on an orange background */
-	padding-top: 50px;
+    max-width: 100%;
+	padding-top: 10px;
 	padding-bottom: 50px;
 }
 
